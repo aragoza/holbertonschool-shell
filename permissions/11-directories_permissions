@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod  ugo+rwx $(pwd)
+chmod  ugo+x $(pwd)
